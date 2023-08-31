@@ -131,3 +131,4 @@ def receive_messages(self):
             except:
                 break
 
+window.mainloop()
